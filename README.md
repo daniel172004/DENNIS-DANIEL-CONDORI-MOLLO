@@ -45,7 +45,7 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" />
 </p>
 
-> *"Codificar es como jugar en modo difícil… pero con recompensas reales 🕹️"*
+> *"Nada es imposible si lo intentas."*
 
 ---
 
@@ -76,3 +76,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="100px" alt="Monstruito Galaga" />
+</p>
