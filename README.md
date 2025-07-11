@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Futuro+Ingeniero+en+Sistemas;Especialista+en+Java+y+SQL;Fan+de+Arduino+y+HTML;Amante+del+c%C3%B3digo+y+los+videojuegos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Futuro+Ingeniero+en+Sistemas;Especialista+en+Arduino,+Java+y+SQL;Fan+de+Arduino+y+HTML;Amante+del+c%C3%B3digo+y+los+videojuegos" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" />
 </p>
 
-> *"Nada es imposible si lo intentas."*
+> *"Especialista en Arduino, Java y SQL."*
 
 ---
 
