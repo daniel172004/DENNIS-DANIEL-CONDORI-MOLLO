@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" alt="Hombrecito jugando videojuegos" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Futuro+Ingeniero+en+Sistemas;Especialista+en+Arduino,+Java+y+SQL;Fan+de+Arduino+y+HTML;Amante+del+c%C3%B3digo+y+los+videojuegos" alt="Typing SVG" />
-</p>
+
 
 ---
 
