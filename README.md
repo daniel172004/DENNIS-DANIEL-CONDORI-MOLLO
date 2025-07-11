@@ -6,7 +6,13 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" alt="Hombrecito jugando videojuegos" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Nada+es+imposible;si+no+intentas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Nada+es+imposible;si+lo+intentas       ▄████▄
+    ▄█▀▀▀▀▀█▄
+   █▀ █▀▀▀█ ▀█
+   █  ▀▀▀▀▀  █
+    ▀▄    ▄▀
+      ▀▀▀▀
+" alt="Typing SVG" />
 </p>
 
 
@@ -45,27 +51,10 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" />
 </p>
 
-> *"Especialista en Arduino, Java y SQL."*
 
----
 
-### 📈 Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical" alt="GitHub Streak" />
-</p>
 
----
-
-### 🌐 Conectemos
-
-<p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
 
 ### 🚀 Proyectos en camino
 
