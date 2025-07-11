@@ -29,38 +29,8 @@
 
 ---
 
-### 📈 Mis estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical" alt="GitHub Streak" />
-</p>
 
----
 
-### 🚀 Proyectos en camino
-💼 Automatización con Python  
-📊 Análisis de datos con MATLAB y SQL  
-📱 Aplicaciones Java orientadas a objetos  
-🧠 Algoritmos y estructuras de datos en C  
 
----
 
-### 🌐 Conectemos
-
-<p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### ✨ Fun Fact
-
-> *"El software está comiendo el mundo… ¡y yo estoy cocinando el próximo plato! 🍜"*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-</p>
