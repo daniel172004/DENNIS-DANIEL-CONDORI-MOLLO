@@ -6,12 +6,9 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" alt="Hombrecito jugando videojuegos" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Nada+es+imposible;si+lo+intentas       ▄████▄
-    ▄█▀▀▀▀▀█▄
-   █▀ █▀▀▀█ ▀█
-   █  ▀▀▀▀▀  █
-    ▀▄    ▄▀
-      ▀▀▀▀
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Nada+es+imposible;si+lo+intentas 
+ 
+   
 " alt="Typing SVG" />
 </p>
 
