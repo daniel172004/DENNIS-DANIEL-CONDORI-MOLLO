@@ -40,7 +40,7 @@
 ### 🎮 Extra: Vida Gamer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="250px" />
+  
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" />
 
 
@@ -57,8 +57,4 @@
 📱 Aplicaciones Java orientadas a objetos  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="100px" alt="Monstruito Galaga" />
-</p>
 
