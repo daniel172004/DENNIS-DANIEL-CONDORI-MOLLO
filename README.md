@@ -42,8 +42,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="250px" />
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" />
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" />
-</p>
+
 
 > *"Especialista en Arduino, Java y SQL."*
 
