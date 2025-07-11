@@ -37,7 +37,7 @@
 
 ---
 
-### 🎮 Extra: Vida Gamer
+
 
 <p align="center">
   
