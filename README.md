@@ -44,7 +44,6 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" />
 
 
-> *"Especialista en Arduino, Java y SQL."*
 
 
 
