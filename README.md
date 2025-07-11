@@ -5,13 +5,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" alt="Hombrecito jugando videojuegos" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Nada+es+imposible;si+lo+intentas 
- 
-   
-" alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Futuro+Ingeniero+en+Sistemas; nada+es+imposible+si+lo+intentas" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -48,6 +45,7 @@
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" />
 </p>
 
+> *"Especialista en Arduino, Java y SQL."*
 
 
 
@@ -65,3 +63,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3oz8xLd9DJq2l2VFtu/giphy.gif" width="100px" alt="Monstruito Galaga" />
 </p>
+
